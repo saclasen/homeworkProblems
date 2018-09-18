@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author sydac
+ *
+ */
+module homeworkTests {
+}
