@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author sydac
- *
- */
-package problems;
