@@ -8,9 +8,14 @@ public class Mystery {
 		String last = "Gershwin";
 		System.out.println(last + ", " + first);
 		
-		int h =( /* 5 + 3 */ - 9 + 6/*8*//2 ); //*+4*/ -10
-		System.out.println(h);
+		int a = 1;
+		int b = 2;
+
+		if ((a == 1) && (++b < 2));
+
+		System.out.println(b);
+		}
 	}
 
-}
+
 
